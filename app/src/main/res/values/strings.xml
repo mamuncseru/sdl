@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidLabFinal</string>
+    <string name="app_name">Weather Today</string>
     <string name="city_name">City:</string>
     <string name="country_name">Country:</string>
     <string name="temperature">Temperature:</string>
