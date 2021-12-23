@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLabFinal</string>
+    <string name="city_name">City:</string>
+    <string name="country_name">Country:</string>
+    <string name="temparature">Temparature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="weather_indication">Weather Indication</string>
+</resources>
